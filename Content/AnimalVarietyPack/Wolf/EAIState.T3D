@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.UserDefinedEnum Name="EAIState" ExportPath=/Script/Engine.UserDefinedEnum'"/Game/LearningKit_Games/Blueprints/AI/EAIState.EAIState"'
+   UniqueNameIndex=3
+   DisplayNameMap=(("NewEnumerator0", NSLOCTEXT("[9462B8578557EAE01CCBA642A622E23B]", "88E360EC45133283DE145FADE1A2D4AF", "Default")),("NewEnumerator1", NSLOCTEXT("[9462B8578557EAE01CCBA642A622E23B]", "A29902DE4568F2F73CCB9690F9CA7DB5", "Roam")),("NewEnumerator2", NSLOCTEXT("[9462B8578557EAE01CCBA642A622E23B]", "72AAD5A14736AB4AB967D1811DA2E1D1", "Chase Player")))
+End Object
